@@ -1,5 +1,9 @@
 # PHÁT TRIỂN HỆ THỐNG QUẢN LÝ THƯ VIỆN
 
+## Liên kết tài liệu
+- **Theo dõi nội dung dự án:** [Google Docs](https://docs.google.com/document/d/1OtU1We-zYK7x0akFGRNMH86REGWx2zgwtIIPwZMo-1A/edit?tab=t.0)
+- **Theo dõi tiến độ công việc:** [Google Sheets](https://docs.google.com/spreadsheets/d/1J_zUMNDaU5mXdYQfzQQ3-wAvCEToZgkVauKrsrV6MBs/edit?gid=0#gid=0)
+
 ## Tiêu đề: Hệ thống quản lý thư viện hiện đại: Tự động hóa quy trình và nâng cao trải nghiệm người dùng
 
 ### 1. Giới thiệu
